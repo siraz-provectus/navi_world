@@ -1,0 +1,10 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: navi_development
+  pool: 5
+  username: postgres
+  password: postgres
+  port: 5432
+  host: localhost
+  min_messages: WARNING
